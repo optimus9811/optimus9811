@@ -8,7 +8,6 @@
 - 🔭MAIN PROJECT -🔥  HavocOS, CherishOS, awaken 🔥 
 
 -AwakenOS op6/6t Mnthly Download [![Download AwakenOS-op6|T](https://img.shields.io/sourceforge/dm/awakenos-op6-t.svg)]
-(https://sourceforge.net/projects/awakenos-op6-t/files/latest/download)
 - nameless-aosp Mnthly Download
 I’m currently unofficial  maintaining  Oneplus 6|6t  A12.1 ROM
 -  Awaken-os
