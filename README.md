@@ -17,4 +17,4 @@ I’m currently unofficial  maintaining  Oneplus 6|6t  A12.1 ROM
 - 📫 How to reach me:  [Telegram] | [Mail]
 
 🐍 Snake Contribution Graph
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc>
+
